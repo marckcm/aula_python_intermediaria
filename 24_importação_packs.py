@@ -1,4 +1,4 @@
-import vendas.calc_precos as vd
+import calc_precos as vd
 
 preco = 49.90
 preco_aum = vd.aumento(preco, 15, formata=True)
